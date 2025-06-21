@@ -34,7 +34,7 @@
 ### **Tools & Technologies**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,arduino,netlify,discord,&perline=8)](#)
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="10" /> Github Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajg2442&show_icons=true&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="yuvrajg2442" /></p>
 
