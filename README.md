@@ -48,36 +48,11 @@
 
 <br><br><br><br><br><br><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> **Featured Projects**
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **Full-Stack Web App** | Modern web application with responsive design | React, Node.js, MongoDB |
-| ☁️ **Cloud Infrastructure** | Scalable cloud solutions and deployment | AWS, Docker, Kubernetes |
-| 🤖 **AI Integration** | Leveraging generative AI in applications | Python, TensorFlow, OpenAI API |
-| 🎨 **UI/UX Projects** | User-centered design implementations | Figma, React, Tailwind CSS |
-
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Coding Profiles**
-
-<details>
-  <summary>View Coding Statistics</summary>
-  <br>
-  
-  <div align="center">
-    <img src="https://leetcard.jacoblin.cool/yuvrajg2442?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
-  </div>
-  
-  <br>
   
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajg2442&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff" alt="Activity Graph" />
   </div>
-  
-</details>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Achievements**  
 
