@@ -56,7 +56,7 @@
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg1MnprbmVrYzZmYmExYXl3OGsyMDBkdXJxbzYwa3F6dWs4b2Z6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4LwJFSVKUsOLsZIbpj/giphy.gif" alt="Badge" width="30" height="30" /> **Achievements**  
 
-<div align="center">
+<div align="left">
   
   🏆 **Campus Festival Leader** - Managing multi-lakh budgets and thousands of attendees  
   🌟 **CSR Champion** - Leading blood drives and community clean-up campaigns  
@@ -72,7 +72,6 @@
 - 🚀 Building innovative web applications with modern JavaScript frameworks
 - 🧠 Exploring the intersection of AI and web development
 - 📱 Developing responsive, user-centric interfaces
-- 🌐 Contributing to open-source projects
 - 📚 Continuous learning and skill enhancement
 
 <br>
