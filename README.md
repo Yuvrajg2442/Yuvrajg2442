@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Yuvraj Gupta</h1>
 
-<h3 align="center">Computer Science Student & Full-Stack Developer</h3>
+<h3 align="center">A Final-Year Electronics Major with a Minor in Computer Science | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajg2442&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajg2442" /> </p>
 
@@ -9,7 +9,7 @@
 - 💡 I love turning complex problems into elegant, user-friendly solutions
 - 🎯 My mission: To create intuitive, impactful software that delights users
 - 🏆 I lead flagship campus festivals and champion CSR campaigns
-- 📫 How to reach me: **yuvrajg2442@gmail.com**
+- 📫 How to reach me: **yuvrajgupta01.work@gmail.com**
 - ⚡ Fun fact: I manage multi-lakh budgets and orchestrate events for thousands of attendees!
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me**  
