@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="mailto:yuvrajgupta01.work@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="yuvrajg2442" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yuvrajg2442" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="yuvrajg2442" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuvrajgupta0001/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="yuvrajg2442" height="30" width="40" /></a>
 <a href="https://yuvrajg2442.github.io/Portfolio-Yuvraj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
 <a href="https://leetcode.com/yuvrajg2442" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajg2442" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yuvrajg2442" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yuvrajg2442" height="30" width="40" /></a>
