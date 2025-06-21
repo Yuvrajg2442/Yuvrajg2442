@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp,firebase,docker&perline=8)](#)
 
 ### **Tools & Technologies**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,netlify,discord,&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,linux,arduino,netlify,discord,&perline=8)](#)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
