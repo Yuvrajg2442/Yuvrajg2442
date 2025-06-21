@@ -26,13 +26,13 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,php&perline=9)](#)
 
 ### **Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,bootstrap,tailwind,jquery,flask&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,opencv,bootstrap,flask&perline=8)](#)
 
 ### **Databases & Cloud**
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase,docker&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp,firebase,docker&perline=8)](#)
 
 ### **Tools & Technologies**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,netlify&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,arduino,netlify,discord,&perline=8)](#)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
