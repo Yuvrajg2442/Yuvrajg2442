@@ -58,10 +58,10 @@
 
 <div align="left">
   
-  🏆 **Campus Festival Leader** - Managing multi-lakh budgets and thousands of attendees  
-  🌟 **CSR Champion** - Leading blood drives and community clean-up campaigns  
-  💻 **Full-Stack Developer** - Building scalable, user-focused applications  
-  ☁️ **Cloud Enthusiast** - Expertise in AWS and modern deployment strategies  
+- 🏆 **Campus Festival Leader** - Managing multi-lakh budgets and thousands of attendees  
+- 🌟 **CSR Champion** - Leading blood drives and community clean-up campaigns  
+- 💻 **Full-Stack Developer** - Building scalable, user-focused applications  
+- ☁️ **Cloud Enthusiast** - Expertise in AWS and modern deployment strategies  
   
 </div>
 
@@ -83,5 +83,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100 &width=100% &section=footer"/>
 </p>
