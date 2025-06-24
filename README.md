@@ -40,7 +40,7 @@
 
 <br><br><br><br><br><br>
 
-<p><img align="left" src="" alt="yuvrajg2442" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajg2442&theme=radical&background=0d1117&border=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff" alt="yuvrajg2442" /></p>
 
 <br><br><br><br><br><br><br><br>
 
