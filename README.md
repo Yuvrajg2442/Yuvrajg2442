@@ -23,10 +23,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**  
 
 ### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,php&perline=9)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&perline=9)](#)
 
 ### **Frameworks & Libraries**
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,opencv,bootstrap,flask&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,opencv&perline=8)](#)
 
 ### **Databases & Cloud**
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp,firebase,docker&perline=8)](#)
