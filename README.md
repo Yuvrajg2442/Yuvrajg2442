@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajg2442&theme=radical&background=0d1117&border=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff"/></p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajg2442&show_icons=true&theme=radical&title_color=ff6b6b&text_color=ffffff&bg_color=0d1117&locale=en" alt="yuvrajg2442" /></p>
 
